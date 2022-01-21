@@ -55,4 +55,25 @@ Colocando Link
 
 # Tabelas 
 
+ Num | Nome | Nota 
+---|---|---
+33| Viny | 4,5
+34 | Marcelo | 10
+35 | José | 9,5
+
+Terminou Exemplo da Tabela 
+
+
+Não entendo direito para que serve o comando `document.getElementByI()` da linguagem JavaScript
+
+```
+comando deixa oq está dentro dele mono espaçado e deixa com um fundo cinza 
+
+```
+
+
+emoji 💸  e so add : 
+
+
+
  
