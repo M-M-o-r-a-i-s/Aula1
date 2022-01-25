@@ -74,6 +74,4 @@ comando deixa oq está dentro dele mono espaçado e deixa com um fundo cinza
 
 emoji 💸  e so add : 
 
-
-
- 
+test
